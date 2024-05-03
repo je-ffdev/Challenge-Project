@@ -12,3 +12,4 @@ C:\Users\Jeffery\Desktop\Challenge-project-foreach-if-array-CSharp-main\Challeng
 C:\Users\Jeffery\Desktop\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
 C:\Users\Jeffery\Desktop\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 C:\Users\Jeffery\Desktop\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+C:\Users\Jeffery\Desktop\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
